@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cristian
 
-<!--
-**cristianpda2010-arch/cristianpda2010-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas na ETEC
+e estou aprendendo programação
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python]
+![HTML]
+![CSS]
+
+## 📫 Contato
+
+![Gmail] cristian.pda2010@gmail.com
